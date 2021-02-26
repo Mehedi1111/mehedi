@@ -1,0 +1,155 @@
+#title{
+  background-color: #013183;
+}
+
+h1{
+  font-family: 'Raleway', sans-serif;
+  line-height: 1.5;
+  font-size: 3.5rem;
+  color: #f2f2f4;
+  font-weight: 800;
+}
+
+h3{
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+}
+
+.favi{
+  width: 10px;
+}
+
+p{
+  color: #8f8f8f;
+  font-weight: 300;
+}
+
+.container-fluid{
+  padding: 3% 10% 7%;
+}
+
+@media (max-width : 1028px) {
+  .title-image{
+    transform: rotate(0deg) !important;
+    position: static  !important;
+
+
+  }
+
+  #title{
+    text-align: center;
+  }
+
+}
+
+
+body{
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.navbar{
+  padding: 0 0 4.5rem;
+}
+
+.nav-item{
+  padding:0 18px;
+}
+
+.butt{
+  margin: 5% 3% 5% 0;
+}
+
+.title-image{
+
+  transform: rotate(20deg);
+  position: absolute;
+  right: 270px;
+
+
+
+}
+
+#features{
+  padding: 7% 15% ;
+  background-color: #f2f2f2;
+  position: relative;
+  z-index: 1
+}
+
+.feature-box{
+  text-align: center;
+  font-weight: 400;
+  padding: 5%;
+}
+
+#pricing{
+  text-align: center;
+    padding: 7% 15% ;
+    background-color: #013183;
+    color: #fff;
+
+}
+
+.price-header{
+color: #013183;
+}
+
+.price-text{
+  color: #0e62d6;
+}
+
+.pricing-pera{
+  color: #fff;
+}
+
+#cta{
+  background-color: #f2f2f2;
+  text-align: center;
+  padding: 7% 15% ;
+
+}
+
+.cta-header{
+  font-family: 'Raleway', sans-serif;
+  font-weight: 800;
+}
+
+.card-header{
+  ackground-color: #013183;
+}
+
+.my-row{
+  padding-top: 2%;
+}
+
+.section-heading{
+  font-family: 'Raleway', sans-serif;
+  font-weight: 800;
+}
+
+#testimonials{
+  padding: 7% 15% 7% 15%;
+  background-color: #0e62d6;
+  background: linear-gradient(to bottom,#0e62d6,#013183);
+}
+
+#press{
+  padding: 7% 15%;
+  background-color: #f2f2f2;
+  text-align: center;
+}
+
+.press-logo{
+  width: 15%;
+  margin: 20px 40px 40px;
+}
+
+.icon{
+  color: #0e62d6;
+  margin-bottom: 1rem;
+}
+
+.icon:hover{
+  color: #013183;
+}
